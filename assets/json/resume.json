@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Akash Chauhan",
+    "label": "Undergraduate",
+    "image": "",
+    "email": "akashc2172@g.ucla.edu",
+    "phone": "123-456-7890",
+    "url": "https://akashc2172.github.io",
+    "summary": "UCLA student studying computational and systems biology. Interested in research opportunities in MedTech and bioengineering",
+    "location": {
+      "address": "UCLA, Los Angeles",
+      "postalCode": "CA 90095",
+      "city": "Los Angeles",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "": [
+    {
+      "name": "Institute for Advanced Study, Princeton University",
+      "position": "Professor of Theoretical Physics",
+      "url": "https://example.com",
+      "startDate": "1933-01-01",
+      "endDate": "1955-01-01",
+      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "highlights": [ "Relativity" ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Crisis Text Line",
+      "position": "Crisis Counselor",
+      "url": "https://crisistextline.org",
+      "startDate": "2023-08-01",
+      "endDate": "Now",
+      "summary": "Provide immediate support to individuals in distress, ensuring their safety and well-being via text-based communciation",
+      "highlights": [
+
+      ]
+    },
+
+    {
+      "organization": "Matriculate",
+      "position": "Advising Fellow",
+      "url": "https://matriculate.org",
+      "startDate": "2023-11-01",
+      "endDate": "Now",
+      "summary": "Conduct weekly 1-on-1 mentoring sessions with HS juniors  and seniors, focusing on college selection, applicatoin strategies, essay writing, and financial aid navigation",
+      "highlights": [
+
+      ]
+    },
+    {
+      "organization": "Cedars-Sinai Medical Center",
+      "position": "TCAB",
+      "url": "https://cedars-sinai.org/volunteer-services.adults/other.html",
+      "startDate": "2023-02-01",
+      "endDate": "Now",
+      "summary": "Coordinate with and shadow nursing units in the Critical Cardiac ICU to enhance patient and family care",
+      "highlights": []
+    },
+    {
+      "organization": "Citizen Schools",
+      "position": "In-Classroom Assistant",
+      "url": "https://citizenschools.org",
+      "startDate": "2023-07-01",
+      "endDate": "Now",
+      "summary": "In-classroom volunteer for middle school non-English native students, guiding them through literacy-enhancing project",
+      "highlights": [
+
+      ]
+    }
+  ],
+ 
+  "education": [
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, CA",
+      "url": "https://www.ucla.edu",
+      "area": "Computational and Systems Biology",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "2026",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Stone, Irving & Jean Summer Research Stipend",
+      "date": "2023-01-01",
+      "awarder": "UCLA",
+      "url": "",
+      "summary": "Awarded for research proposal and summer project about the effectiveness of mobile photogrammetry in an operating room setting"
+    }
+  ],
+  "certificates": [
+    
+  ],
+  "publications": [
+    
+  ],
+  "skills": [
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational",
+      "icon": ""
+    }
+  ],
+  "interests": [
+  ],
+  "references": [
+  ],
+  "projects": [
+  
+  ]
+}
