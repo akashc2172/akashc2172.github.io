@@ -168,6 +168,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  ruby
   x8_64-linux
 
 DEPENDENCIES
